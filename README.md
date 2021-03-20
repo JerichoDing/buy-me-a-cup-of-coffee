@@ -2,5 +2,5 @@
 
 ### How to use
 ```
-npx buy-alpaca-bi-a-cup-of-coffee
+npx buy-me-a-cup-of-coffee
 ```
